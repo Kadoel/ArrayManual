@@ -46,7 +46,7 @@
             this.ClientSize = new System.Drawing.Size(276, 190);
             this.Controls.Add(this.lBNama);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Array Manual";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
