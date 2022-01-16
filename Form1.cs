@@ -27,11 +27,12 @@ namespace ArrayManual
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
-            for(int i = 0; i < nama.Length; i++)
+            #region Cara Memanggil Data Array Ke Dalam ListBox            
+            for (int i = 0; i < nama.Length; i++)
             {
                 lBNama.Items.Add(nama[i]);
             }
+            #endregion
         }
     }
 }
