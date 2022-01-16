@@ -13,7 +13,7 @@ namespace ArrayManual
     public partial class Form1 : Form
     {
         //private String[] nama = new String[] { "Marhen", "Tono", "Andi", "Riko", "Juni" };
-        string[] nama = { "Marhen", "Tono", "Andi", "Riko", "Juli" };
+        string[] nama = { "Marhen", "Tono", "Andi", "Riko", "Juli", "Dedy", "Vincen" };
         public Form1()
         {
             InitializeComponent();
