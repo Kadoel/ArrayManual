@@ -12,8 +12,14 @@ namespace ArrayManual
 {
     public partial class Form1 : Form
     {
+        #region Cara 1
         //private String[] nama = new String[] { "Marhen", "Tono", "Andi", "Riko", "Juni" };
+        #endregion
+
+        #region Cara 2
         string[] nama = { "Marhen", "Tono", "Andi", "Riko", "Juli", "Dedy", "Vincen" };
+        #endregion
+
         public Form1()
         {
             InitializeComponent();
